@@ -21,7 +21,7 @@ O Projeto é um preenchimento de formulário.
 
  Além de estruturar no HTML e estilizar no CSS em como montar um formulário do zero utilizando o Figma,  deixei o formulário responsivo a todos os tamanhos de telas.
 
- Link do projeto finalizado:
+ Link do projeto finalizado: https://naatlr.github.io/Formulario3_etapa1_Desafio-Pratico-Stage03/
 
 
 💡 Aprendizado pela Rocketseat! 💡
